@@ -1,0 +1,17 @@
+Operadores de coparação
+ > maior que 
+
+ >= maior que ou igual a
+
+ < menor que 
+
+ >= menor que ou igual a 
+
+ == igualdade (Valor)
+
+ === igualdade estrita (Valor e tipo ) 
+
+ != diferente (valor )
+
+ !== diferente estrito (Valor e tipo ) 
+

@@ -1,0 +1,9 @@
+const descreve uma VARIÁVEL que não pode ser REATRIBUÍDA (
+    Como o operador de atribuição = )
+    Depois de criá-la, não podemos fazer algo assim:
+    const nome = 'Luiz';
+    nome = 'João', // erro: Assignmen
+
+    Variáveis são como um apelido para um valor, uma espécie de aliás para mencionar algum valor salvo na memória.
+
+    Já valores são os dados que realmente ficam salvos na memória e sustentam determinado tipo. Alguns tipos de valores SÃO IMUTÁVEIS, como number, string, boolean, undefined, null, symbole e bigint (os primitivos todos são imutávies). Outros tipos são mutáveis, como arrays e objetos (objetos em geral são mutáveis, com exceção null).

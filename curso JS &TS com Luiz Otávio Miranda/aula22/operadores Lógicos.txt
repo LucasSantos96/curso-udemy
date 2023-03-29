@@ -1,0 +1,8 @@
+Operadores lógicos 
+&& -> AND -> E = Todas as expressões precisam ser verdadeiras para retornar true.
+const expressaoAnd = true && true && false && true;
+
+|| -> OR -> OU = Se uma expreção apenas retornar verdadeiro(True), a expressão completa retorna true.
+const expressaoOr = true || false; 
+
+! -> NOT -> NÃO = Nega uma expressão.
